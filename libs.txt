@@ -1,0 +1,5 @@
+Библиотеки:
+• ESP8266_LCD_1602_RUS (работает и на ESP32)
+• WiFi.h и Wire.h (встроенные)
+• PubSubClient
+• NTPClient
